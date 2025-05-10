@@ -2,8 +2,7 @@ import MyComponent from 'mycomponent.jsx'
 
 function App() {
 
-  return (<MyComponent />
-  )
+  return (<MyComponent />)
 }
 
 export default App
